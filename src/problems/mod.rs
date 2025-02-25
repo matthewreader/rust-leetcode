@@ -2,3 +2,4 @@ mod _1122_relative_sort_array;
 mod _1619_mean_of_array_after_removing_some_elements;
 mod _3110_score_of_a_string;
 mod _1014_best_sightseeing_pair;
+mod _88_merge_sorted_array;
