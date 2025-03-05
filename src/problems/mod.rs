@@ -4,3 +4,8 @@ mod _3110_score_of_a_string;
 mod _1014_best_sightseeing_pair;
 mod _88_merge_sorted_array;
 mod _27_remove_element;
+mod _26_remove_duplicates_from_sorted_array;
+mod _1092_shortest_common_supersequence;
+mod _2161_partition_array_according_to_given_pivot;
+mod _1780_check_if_number_is_a_sum_of_powers_of_three;
+mod _2579_count_total_number_of_colored_cells;
