@@ -9,3 +9,6 @@ mod _1092_shortest_common_supersequence;
 mod _2161_partition_array_according_to_given_pivot;
 mod _1780_check_if_number_is_a_sum_of_powers_of_three;
 mod _2579_count_total_number_of_colored_cells;
+mod _2965_find_missing_and_repeat_values;
+mod _2523_closest_prime_numbers_in_range;
+mod _3208_alternating_groups_ii;
