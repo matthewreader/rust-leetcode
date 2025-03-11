@@ -13,3 +13,4 @@ mod _2965_find_missing_and_repeat_values;
 mod _2523_closest_prime_numbers_in_range;
 mod _3208_alternating_groups_ii;
 mod _3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii;
+mod _1358_number_of_substrings_containing_all_three_characters;
