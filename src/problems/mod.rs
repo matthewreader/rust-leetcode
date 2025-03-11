@@ -14,3 +14,4 @@ mod _2523_closest_prime_numbers_in_range;
 mod _3208_alternating_groups_ii;
 mod _3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii;
 mod _1358_number_of_substrings_containing_all_three_characters;
+mod _35_search_insert_position;
