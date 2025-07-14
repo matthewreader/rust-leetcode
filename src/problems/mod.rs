@@ -16,3 +16,5 @@ mod _3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii;
 mod _1358_number_of_substrings_containing_all_three_characters;
 mod _35_search_insert_position;
 mod _2529_maximum_count_of_positive_integer_and_negative_integer;
+#[path = "_1290_convert_binary_number_in_a_linked_list_to_integer.rs"]
+pub mod problem_1290;
