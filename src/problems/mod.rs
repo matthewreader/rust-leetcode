@@ -18,3 +18,5 @@ mod _35_search_insert_position;
 mod _2529_maximum_count_of_positive_integer_and_negative_integer;
 #[path = "_1290_convert_binary_number_in_a_linked_list_to_integer.rs"]
 pub mod problem_1290;
+#[path = "_3136_valid_word.rs"]
+pub mod problem_3136;
