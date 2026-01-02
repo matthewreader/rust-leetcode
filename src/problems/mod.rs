@@ -22,3 +22,4 @@ mod _3512_minimum_operations_to_make_array_sum_divisible_by_k;
 pub mod problem_1290;
 #[path = "_3136_valid_word.rs"]
 pub mod problem_3136;
+mod _961_n_repeated_element_in_size_2n_array;
