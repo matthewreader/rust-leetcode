@@ -24,3 +24,4 @@ pub mod problem_1290;
 pub mod problem_3136;
 mod _961_n_repeated_element_in_size_2n_array;
 mod _102_binary_tree_level_order_traversal;
+mod _69_sqrt_x;
